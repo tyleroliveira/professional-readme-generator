@@ -1,23 +1,23 @@
-# asdf
+# professional-readme-generator
 ## Description
-asdf
+this is a simple readme generator that uses node to ask the user a series of questions and uses the answers to generate a readme.md
 ## Table of Contents (Optional)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-asdf
+Clone repo. Install dependencies. Run node index.js from terminal bash.
 ## Usage
-asdf
+Answer a series of questions in terminal bash and the answers are formatted into the README.md
 ## License Badge
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 ## How to Contribute
-asdf
+placeholder
 ## Tests
-asdf
+placeholder
 ## Github
-asdf
+tyleroliveira
 ## Email
-asdf
+tyleroliveira63@gmail.com
