@@ -8,6 +8,7 @@ this is a simple readme generator that uses node to ask the user a series of que
 - [License](#license)
 ## Installation
 Clone repo. Install dependencies. Run node index.js from terminal bash.
+see video for more info https://drive.google.com/file/d/1oQuaUQ7jcOogWtldWDn5Yfoq8X5i3t4b/view?usp=sharing
 ## Usage
 Answer a series of questions in terminal bash and the answers are formatted into the README.md
 ## License Badge
